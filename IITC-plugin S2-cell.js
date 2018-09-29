@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id             iitc-plugin-s2cells@ny
-// @name           IITC plugin: S2 cell (VIP道館-藍,道館-紅,補給站-黃)
+// @name           IITC-plugin:S2-cell (VIP道館-藍,道館-紅,補給站-黃)
 // @author         ny
 // @category       Layer
 // @version        0.1.7
