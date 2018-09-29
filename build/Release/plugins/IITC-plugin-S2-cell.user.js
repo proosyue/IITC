@@ -1,13 +1,13 @@
 // ==UserScript==
 // @id             iitc-plugin-s2cells@ny
-// @name           IITC-plugin:S2-cell(VIP道館藍色,道館紅色,補給站黃色) 
+// @name           IITC-plugin:S2-cell 
 // @author         ny
 // @category       Layer
 // @version        0.1.8
 // @namespace      https://github.com/proosyue/IITC
 // @updateURL      https://github.com/proosyue/IITC/raw/master/build/Release/plugins/IITC-plugin-S2-cell.user.js
 // @downloadURL    https://github.com/proosyue/IITC/raw/master/build/Release/plugins/IITC-plugin-S2-cell.user.js
-// @description    IITC: Shows various S2 cells on the map
+// @description    IITC:(VIP道館藍色,道館紅色,補給站黃色)
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
