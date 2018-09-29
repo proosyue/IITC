@@ -7,7 +7,7 @@
 // @namespace      https://github.com/proosyue/IITC
 // @updateURL      https://github.com/proosyue/IITC/raw/master/build/Release/plugins/IITC-plugin-S2-cell.user.js
 // @downloadURL    https://github.com/proosyue/IITC/raw/master/build/Release/plugins/IITC-plugin-S2-cell.user.js
-// @description    IITC:(VIP道館藍色,道館紅色,補給站黃色)
+// @description    IITC: Shows various S2 cells on the map
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
